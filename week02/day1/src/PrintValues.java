@@ -4,5 +4,4 @@ public class PrintValues {
             System.out.println(42);
             System.out.println(3.141592);
         }
-    }
 }

@@ -5,6 +5,6 @@ public class Integers {
             System.out.println(0);
             System.out.println(2147483647);
             System.out.println(-2147483648);
-            System.out.println(2147483648);
+            System.out.println(214748364);
         }
-    }
+}

@@ -7,4 +7,3 @@ public class Floats {
         System.out.println(5.);
     }
 }
-}
