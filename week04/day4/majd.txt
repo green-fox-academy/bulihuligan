@@ -1,0 +1,11 @@
+Lehet-e grafikus felület nélkül installálni, használni, üzemeltetni MS Windows operációs rendszert?
+
+Lehet-e grafikus felület nélkül installálni, használni, üzemeltetni Linux operációs rendszert?
+
+Lehet-e MS Windows Server-en futó alkalmazást futtatni Linux operációs rendszeren?
+
+Szükséges-e driver installálása MS Windows OS-ek alatt?
+
+Szükséges-e driver installálása Linux OS-ek alatt?
+
+MS Windows alatt a registry-t milyen alkalmazással lehet menedzselni?

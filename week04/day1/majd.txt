@@ -1,0 +1,16 @@
+Keress utána, hogy milyen gépterem besorolási szintek vannak! Készíts összehasonlító táblázatot!
+
+
+Mi a különbség egy Tier 3 és Tier 4 besorolású gépterem között?
+
+Keress Tier 3 és Tier 4 géptermeket Budapesten!
+
+Lehet-e gépteremben vízzel oltani? Indokold!
+
+Milyen oltórendszerek/készülékek használhatók gépteremben?
+
+Mi a különbség egy „rack mounted” és egy „blade” szerver között?
+
+Mi a különbség egy desktop gép és egy szerver között?
+
+Oktató anyag a HPE blade technológián keresztül mutatta be blade rendszer felépítését. Keresd meg ennek a megfelelőjét a DELL esetében!
